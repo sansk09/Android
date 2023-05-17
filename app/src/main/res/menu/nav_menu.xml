@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/nav_notice"
+        android:title="Create Notice"/>
+        <item
+            android:id="@+id/nav_viewNotice"
+            android:title="Notices"
+            />
+
+        <item
+            android:id="@+id/nav_dashboard"
+            android:title="SKIT Website"/>
+        <item
+            android:id="@+id/nav_skit"
+            android:title="SKIT Images"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout"/>
+
+
+
+
+    </group>
+
+</menu>
