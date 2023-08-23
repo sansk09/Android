@@ -1,3 +1,4 @@
-# Android
-It is an application developed on Android Studio, used Firebase as Database , It helps admin to manage all students .
-Students can easily login and get knowledge about their college like they can see notices add by admin and images of College
+# Campus Connect
+Design a comprehensive Student management app that help students and teachers to connect with college administration.
+This application helps student to go through thier college website and images of college and provide a plateform for
+college administration to add notices for sharing important information with student and teachers. Student and teachers can access this information by one click on this app.
