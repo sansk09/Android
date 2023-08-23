@@ -1,7 +1,6 @@
 # Campus Connect
 Design a comprehensive Student management app that help students and teachers to connect with college administration.
 # App Features
-
 -Student can Signup to the app and thier information saved in college database.
 -Student can login through app using username and password provided by administration.
 - Student can view their information like username, password, mobile number,etc by clicking on profile section.
